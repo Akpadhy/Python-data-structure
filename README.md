@@ -1,1 +1,3 @@
-# python-data-structure-
+# Python 3
+
+Data structures using python derived n simple way....
